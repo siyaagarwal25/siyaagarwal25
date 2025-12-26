@@ -1,4 +1,5 @@
-## About me 
+## About Me 
+# Computer Science & Engineering Student at NSUT,Delhi
 
 <!--
 **siyaagarwal25/siyaagarwal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

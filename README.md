@@ -11,11 +11,8 @@
 
 ### Data & ML / GenAI
 
-[![Pandas](https://skillicons.dev/icons?i=pandas)]()
-[![NumPy](https://skillicons.dev/icons?i=numpy)]()
 [![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)]()
-[![LangChain](https://skillicons.dev/icons?i=langchain)]()
-[![Hugging Face](https://skillicons.dev/icons?i=huggingface)]()
+
 
 
  

@@ -3,6 +3,17 @@
 - Passionate about Data Science, Machine Learning and Gen-AI
 - Upcoming Product Engineer Intern at Sprinklr
 - Successfully concluded a SDE internship at Kyndryl
+
+### Languages
+[![Python](https://skillicons.dev/icons?i=python)]()
+[![C++](https://skillicons.dev/icons?i=cpp)]()
+[![SQL](https://skillicons.dev/icons?i=postgres)]()
+
+### Data & ML
+[![Pandas](https://skillicons.dev/icons?i=pandas)]()
+[![Scikit-Learn](https://skillicons.dev/icons?i=scikitlearn)]()
+[![LangChain](https://skillicons.dev/icons?i=langchain)]()
+[![Hugging Face](https://skillicons.dev/icons?i=huggingface)]()
  
 
 

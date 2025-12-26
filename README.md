@@ -1,5 +1,10 @@
-## About Me 
-# Computer Science & Engineering Student at NSUT,Delhi
+# About Me 
+-Computer Science & Engineering Student at NSUT,Delhi
+-Passionate about Data Science, Machine Learning and Gen-AI
+-Upcoming Product Engineer Intern at Sprinklr
+-Successfully concluded a SDE internship at Kyndryl
+ 
+
 
 <!--
 **siyaagarwal25/siyaagarwal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
